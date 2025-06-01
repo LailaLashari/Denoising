@@ -30,7 +30,9 @@ Train the network in traning.ipynb file
 Evaluate the trained model on a test dataset using:
 
 Test-HSENet.ipynb
---pretranned weights <a href="https://drive.google.com/file/d/1NrP-TrXpauZUUZT5bRoPu-3RJcDp3wg7/view?usp=share_link" > 'HSENet.weights.h5'</a> and <a href="https://drive.google.com/file/d/1HOOkkIHLQq725ut3i1myPyPama2wXdsd/view?usp=share_link" >HSENet.keras </a>
-Citation
-"DEEP DENOISER: A Hybrid Deep Learning Approach for Image Noise Reduction"
+--pretrained weights <a href="https://drive.google.com/file/d/1NrP-TrXpauZUUZT5bRoPu-3RJcDp3wg7/view?usp=share_link" > 'HSENet.weights.h5'</a> and <a href="https://drive.google.com/file/d/1HOOkkIHLQq725ut3i1myPyPama2wXdsd/view?usp=share_link" >HSENet.keras </a>
+
+*Citation*
 If you use this work in your research, please cite.
+"DEEP DENOISER: A Hybrid Deep Learning Approach for Image Noise Reduction"
+
