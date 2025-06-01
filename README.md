@@ -19,18 +19,18 @@ Steps to Use
 
 1. Prepare the Dataset
 
-Convert the dataset into 64x64 image patches using the scripts in the data_preprocessing folder.
+Convert the dataset into 64x64 image patches using the scripts in the Patches.py.
 
 2. Train the Model
 
-Train the network for a noise level (NL) of 10 using the following command:
+Train the network in traning.ipynb file
 
-python main.py --NL 10 --BatchReNormalization True --input_shape (64,64,3)
 3. Test the Model
 
 Evaluate the trained model on a test dataset using:
 
-python main.py --NL 10 --BatchReNormalization True --input_shape (64,64,3) --test_data_name 'Kodak_Test_C_NL30.h5'
+Test-HSENet.ipynb
+--pretranned weights <a href="https://drive.google.com/file/d/1NrP-TrXpauZUUZT5bRoPu-3RJcDp3wg7/view?usp=share_link" > 'HSENet.weights.h5'</a> and <a href="https://drive.google.com/file/d/1HOOkkIHLQq725ut3i1myPyPama2wXdsd/view?usp=share_link" >HSENet.keras </a>
 Citation
-
+"DEEP DENOISER: A Hybrid Deep Learning Approach for Image Noise Reduction"
 If you use this work in your research, please cite.
