@@ -18,6 +18,7 @@ This repository contains the implementation of the proposed method from the rese
 Steps to Use
 
 1. Prepare the Dataset
+Download the SIDD Medium dataset or SIDD Small dataset from  https://abdokamel.github.io/sidd/ 
 
 Convert the dataset into 64x64 image patches using the scripts in the Patches.py.
 
