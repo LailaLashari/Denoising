@@ -19,7 +19,7 @@ Steps to Use
 
 1. Prepare the Dataset
 
-Download the SIDD Medium dataset or SIDD Small dataset from  https://abdokamel.github.io/sidd/ 
+Download the SIDD Medium dataset or SIDD Small dataset from  https://abdokamel.github.io/sidd/ <\n>
 Convert the dataset into 64x64 image patches using the scripts in the Patches.py.
 
 2. Train the Model
